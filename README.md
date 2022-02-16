@@ -1,2 +1,2 @@
-# practicing-github
- This is me practicing github
+Practicing Github, HTML and CSS
+ This is me practicing github and a little html and css
